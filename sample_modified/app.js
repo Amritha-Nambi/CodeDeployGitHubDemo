@@ -9,7 +9,7 @@ var express = require("express"),
     alert = require("alert")
 const mongodbConnection = require("./mongo")
 
-//Copying only this file
+//Checking
 /*mongoose.set('useNewUrlParser', true); 
 mongoose.set('useFindAndModify', false); 
 mongoose.set('useCreateIndex', true); 
