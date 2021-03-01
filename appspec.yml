@@ -33,7 +33,7 @@ os: linux
 #   "permissions" section altogether. A blank or incomplete "permissions"
 #   section may cause associated deployments to fail.
 files:
-  - source: /sample_modified
+  - source: /sample_modified/app.js
     destination: /home/ubuntu/codeDeploy
 
 # If you are not running any commands on the Amazon EC2 instance, then remove 
